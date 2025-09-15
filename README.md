@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m a University of Maryland alumni with Bachelor of Science in Computer Science
-- 🌱 Software Enginering Intern at ClearlyEnergy
+- 🌱 Software Engineer at ClearlyEnergy
 - 👯 I’m looking to collaborate on app development
 - 📫 How to reach me: mpismennaya@gmail.com | (610)-864-9310
 - ⚡ Fun fact: I also do a lot of art as a hobby: I'm into Oil painting, graphics and screen printing
