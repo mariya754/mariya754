@@ -7,7 +7,7 @@
 - 📫 How to reach me: mpismennaya@gmail.com | (610)-864-9310
 - ⚡ Fun fact: I also do a lot of art as a hobby: I'm into Oil painting, graphics and screen printing
 
-
+Link to one of the projects: https://github.com/avimkedia/avimkedia.github.io
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariia-pysmenna-ozerova-9b316a266/) 
