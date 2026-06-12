@@ -1,9 +1,9 @@
 ## Hi, I'm Masha ✨
 
 
-- 🌱 I’m a Software Engineer at ClearlyEnergy
+- 🌱 I’m a Secure Software Engineer at ClearlyEnergy
 - 🔭 University of Maryland alumni with Bachelor of Science in Computer Science
-- 👯 I’m looking to collaborate on app development
+- 👯 I’m looking to collaborate on security tools development, penetration testing and anything Cybersecurity related
 - 📫 How to reach me: mpismennaya@gmail.com | (610)-864-9310
 - ⚡ Fun fact: I also do a lot of art as a hobby: I'm into Oil painting, graphics and screen printing
 
